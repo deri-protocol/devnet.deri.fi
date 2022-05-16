@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkcra_app=globalThis.webpackChunkcra_app||[]).push([[217],{1217:(a,t,e)=>{e.r(t),e.d(t,{default:()=>l});e(79504);var p=e(37009),c=e(80184);function l(){return(0,c.jsxs)("div",{children:[(0,c.jsx)("a",{"data-tip":"React-tooltip",children:" \u25d5\u203f\u203f\u25d5 "}),(0,c.jsx)(p.Z,{place:"top",type:"dark",effect:"float"})]})}}}]);
+//# sourceMappingURL=217.28b2f454.chunk.js.map
