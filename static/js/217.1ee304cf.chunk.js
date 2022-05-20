@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkderi_fi_portal=globalThis.webpackChunkderi_fi_portal||[]).push([[217],{1217:(t,a,e)=>{e.r(a),e.d(a,{default:()=>r});e(79504);var i=e(37009),l=e(80184);function r(){return(0,l.jsxs)("div",{children:[(0,l.jsx)("a",{"data-tip":"React-tooltip",children:" \u25d5\u203f\u203f\u25d5 "}),(0,l.jsx)(i.Z,{place:"top",type:"dark",effect:"float"})]})}}}]);
+//# sourceMappingURL=217.1ee304cf.chunk.js.map
