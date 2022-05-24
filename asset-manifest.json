@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7846dd21.css",
-    "main.js": "/static/js/main.8c087180.js",
+    "main.css": "/static/css/main.a1561b6d.css",
+    "main.js": "/static/js/main.76b18d1b.js",
     "static/js/478.7dda09fe.chunk.js": "/static/js/478.7dda09fe.chunk.js",
     "static/js/997.8cc9e35e.chunk.js": "/static/js/997.8cc9e35e.chunk.js",
     "static/js/312.ae0edcb9.chunk.js": "/static/js/312.ae0edcb9.chunk.js",
@@ -178,8 +178,8 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg",
     "static/media/left-menu.svg": "/static/media/left-menu.bacadc6c36d0a8cc2fcd.svg",
     "static/media/bet-now.svg": "/static/media/bet-now.f9d878cb7c6980b11f4a.svg",
-    "main.7846dd21.css.map": "/static/css/main.7846dd21.css.map",
-    "main.8c087180.js.map": "/static/js/main.8c087180.js.map",
+    "main.a1561b6d.css.map": "/static/css/main.a1561b6d.css.map",
+    "main.76b18d1b.js.map": "/static/js/main.76b18d1b.js.map",
     "478.7dda09fe.chunk.js.map": "/static/js/478.7dda09fe.chunk.js.map",
     "997.8cc9e35e.chunk.js.map": "/static/js/997.8cc9e35e.chunk.js.map",
     "312.ae0edcb9.chunk.js.map": "/static/js/312.ae0edcb9.chunk.js.map",
@@ -200,7 +200,7 @@
     "425.f4ff3d63.chunk.js.map": "/static/js/425.f4ff3d63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7846dd21.css",
-    "static/js/main.8c087180.js"
+    "static/css/main.a1561b6d.css",
+    "static/js/main.76b18d1b.js"
   ]
 }
