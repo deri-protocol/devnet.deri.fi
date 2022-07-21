@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/dip-hunter/static/css/main.7f4a65fb.css",
-    "main.js": "/dip-hunter/static/js/main.6331b1c0.js",
-    "static/css/253.e735f1b7.chunk.css": "/dip-hunter/static/css/253.e735f1b7.chunk.css",
-    "static/js/253.734ead5b.chunk.js": "/dip-hunter/static/js/253.734ead5b.chunk.js",
+    "main.js": "/dip-hunter/static/js/main.42fda94d.js",
+    "static/css/253.14e52ae6.chunk.css": "/dip-hunter/static/css/253.14e52ae6.chunk.css",
+    "static/js/253.e426a9fe.chunk.js": "/dip-hunter/static/js/253.e426a9fe.chunk.js",
     "static/js/779.6a37d169.chunk.js": "/dip-hunter/static/js/779.6a37d169.chunk.js",
     "static/js/108.06ff1708.chunk.js": "/dip-hunter/static/js/108.06ff1708.chunk.js",
     "static/js/611.69d9c271.chunk.js": "/dip-hunter/static/js/611.69d9c271.chunk.js",
@@ -133,6 +133,6 @@
   },
   "entrypoints": [
     "static/css/main.7f4a65fb.css",
-    "static/js/main.6331b1c0.js"
+    "static/js/main.42fda94d.js"
   ]
 }
