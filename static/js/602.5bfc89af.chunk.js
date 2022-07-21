@@ -1,0 +1,1 @@
+(globalThis.webpackChunkderi_fi_portal=globalThis.webpackChunkderi_fi_portal||[]).push([[602],{42602:()=>{}}]);
